@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="uz"> 
-<head> 
+<head>  
 <meta charset="UTF-8" /> 
 <title>Uyga vazifa yordamchisi</title> 
 <style>
