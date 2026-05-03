@@ -13,7 +13,7 @@
     text-align: center;
   }
   .container {
-    max-width: 600px;
+    max-width: 600px; 
     margin: auto;
     background: white;
     border-radius: 10px;
