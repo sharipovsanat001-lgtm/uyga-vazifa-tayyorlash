@@ -5,7 +5,7 @@
 <title>Uyga vazifa yordamchisi</title> 
 <style>
   body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif; 
     padding: 20px;
     background: #f0f4f8; 
   }
