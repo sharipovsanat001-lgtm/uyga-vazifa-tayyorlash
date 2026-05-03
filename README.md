@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="uz">
+<html lang="uz"> 
 <head>
 <meta charset="UTF-8" />
 <title>Uyga vazifa yordamchisi</title>
