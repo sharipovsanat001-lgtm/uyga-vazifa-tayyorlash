@@ -2,7 +2,7 @@
 <html lang="uz"> 
 <head>
 <meta charset="UTF-8" />
-<title>Uyga vazifa yordamchisi</title>
+<title>Uyga vazifa yordamchisi</title> 
 <style>
   body {
     font-family: Arial, sans-serif;
