@@ -7,7 +7,7 @@
   body {
     font-family: Arial, sans-serif;
     padding: 20px;
-    background: #f0f4f8;
+    background: #f0f4f8; 
   }
   h1 {
     text-align: center;
