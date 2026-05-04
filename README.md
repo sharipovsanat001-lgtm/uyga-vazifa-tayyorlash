@@ -10,7 +10,7 @@
     background: #f0f4f8; 
   }
   h1 {
-    text-align: center;
+    text-align: center; 
   }
   .container {
     max-width: 600px; 
