@@ -6,7 +6,7 @@
 <style>
   body {  
     font-family: Arial, sans-serif; 
-    padding: 20px;
+    padding: 20px; 
     background: #f0f4f8; 
   }
   h1 {
