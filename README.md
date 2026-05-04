@@ -4,7 +4,7 @@
 <meta charset="UTF-8" /> 
 <title>Uyga vazifa yordamchisi</title> 
 <style>
-  body {
+  body {  
     font-family: Arial, sans-serif; 
     padding: 20px;
     background: #f0f4f8; 
